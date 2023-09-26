@@ -1,17 +1,16 @@
 # Creative Project 1 Project Specification
 ## Overview
-For your first Creative Project, you will use what we're learning about HTML and CSS to make a simple website with at least two HTML pages linked to one shared CSS file. As a Creative Project, you have the freedom to have more ownership in your work as compared to a Homework Assignment, as long as you meet the requirements below.
+For your first Creative Project, you will use what we're learning about HTML and CSS to make a simple website with at least two HTML pages linked to one shared CSS file.
 
 I encourage you to explore the new material covered in class, as well as related (but optional) content we may link to along the way (e.g. CSS3 animations). This is your chance to:
 
-1. Build websites that you can link to on your resume or code portfolio (CPs can be
-   public, HWs cannot be).
+1. Build websites that you can link to on your resume or code portfolio.
 2. Ask the instructor about features you want to learn how to implement.
 3. Apply what you're learning to projects you are personally interested in and
    may use outside of just a AD 320 assignment.
 4. Get feedback on your use of new languages and technologies we're learning.
 
-Some students may choose to build upon their Creative Project throughout the quarter. You may choose to do a new website for each CP, or build on previous submissions, as long as you meet requirements listed for that particular CP. Remember that these are for you to bring outside of the course, and you are encouraged to explore/ask about material we don't get to cover in class if you would like!
+Some students may choose to build upon their Creative Project throughout the quarter. You may choose to create a new website for each CP, or build on previous submissions, as long as you meet requirements listed for that particular CP. Remember that these are for you to bring outside of the course, and you are encouraged to explore/ask about material we don't get to cover in class if you would like!
 
 ## Ideas for CP1
 Here are some ideas for your cp:
@@ -46,7 +45,7 @@ If you choose to use a second stylesheet, you should use `styles.css` only for s
 ## Internal Requirements
 * Links to **your** `.html` and `.css` files should be **relative links**, not absolute.
   - A relative link is one that is _relative_ to the current page. For example, this means that if both your `.html` files are located in the same directory at the same level you can add a link to the second `.html` file from the first using the name of the desired `.html` file.
-* Your HTML and CSS should demonstrate good code quality as demonstrated in class. For Module 1, common code quality requirements students miss include:
+* Your HTML and CSS should demonstrate good code quality as demonstrated in class. Common good code quality practices include:
   * Using consistent indentation, proper naming conventions, curly brace locations, etc. Remember that IDs and classes should be in all-lowercase conventions and multiple words are optionally separated by "-".
   * Keep lines fewer than 100 characters for readability (links are an exception to this rule)
   * Do not express style information in the HTML, such as through inline styles or presentational HTML tags such as `b`, `i` or `font`.
@@ -57,7 +56,7 @@ If you choose to use a second stylesheet, you should use `styles.css` only for s
   * Don't know what any of that means but want to learn how to use a CSS framework? Ask about them in office hours!
 
 ## Documentation
-* Place a comment header in **each file** with your name, section, a brief description of the assignment, and the file's contents. A good file header description is typically 2-3 sentences. Examples are shown below:
+* Place a comment header in **each file** with your name, date, and a brief description of the document, and the file's contents. A good file header description is typically 2-3 sentences. Examples are shown below:
 
     HTML File:
 
@@ -86,11 +85,11 @@ If you choose to use a second stylesheet, you should use `styles.css` only for s
 ## Grading
 Grading for Creative Projects is lighter with the chance to explore and learn without the overhead of having to match strict external requirements. My goal is to give you feedback, particularly on the internal requirements and documentation.
 
-This CP will be out of 10 points and will likely (subject to adjustments) be distributed as:
+This CP will be out of 100 points and will likely (subject to adjustments) be distributed as:
 
 - External Correctness (~50%)
 - Internal Correctness (~40%)
 - Documentation (~10%)
 
 ### Academic Integrity
-Creative Projects are unique in that students may look for outside resources for inspiration or assistance in accomplishing their goals. On occasion students may wish to use portions of sample code that has been obtained on our course website or others. In order to avoid academic misconduct for a Creative Project in AD 320 you must include school appropriate content. If I find inappropriate content or plagiarism in CPs **you will be ineligible for any points on the CP**. Ask the instructor if you're unsure if your work is cited appropriately. Any external sources like images should be cited where used in the source code or (ideally) visible in a page footer.
+Creative Projects are unique in that students may look for outside resources for inspiration or assistance in accomplishing their goals. On occasion students may wish to use portions of sample code that has been obtained on our course website or others. In order to avoid academic misconduct for a Creative Project in AD 320 you must include school appropriate content. If I find inappropriate content or plagiarism in CPs **you will be ineligible for any points on the CP**. Ask Tim if you're unsure if your work is cited appropriately. Any external sources like images should be cited where used in the source code or (ideally) visible in a page footer.
