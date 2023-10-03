@@ -4,10 +4,10 @@ For your first Creative Project, you will use what we're learning about HTML and
 
 I encourage you to explore the new material covered in class, as well as related (but optional) content we may link to along the way (e.g. CSS3 animations). This is your chance to:
 
-1. Build websites that you can link to on your resume or code portfolio.
+1. Build websites that you can link on your resume or code portfolio.
 2. Ask the instructor about features you want to learn how to implement.
 3. Apply what you're learning to projects you are personally interested in and
-   may use outside of just a AD 320 assignment.
+   may use outside of just an AD 320 assignment.
 4. Get feedback on your use of new languages and technologies we're learning.
 
 Some students may choose to build upon their Creative Project throughout the quarter. You may choose to create a new website for each CP, or build on previous submissions, as long as you meet requirements listed for that particular CP. Remember that these are for you to bring outside of the course, and you are encouraged to explore/ask about material we don't get to cover in class if you would like!
@@ -85,11 +85,7 @@ If you choose to use a second stylesheet, you should use `styles.css` only for s
 ## Grading
 Grading for Creative Projects is lighter with the chance to explore and learn without the overhead of having to match strict external requirements. My goal is to give you feedback, particularly on the internal requirements and documentation.
 
-This CP will be out of 100 points and will likely (subject to adjustments) be distributed as:
-
-- External Correctness (~50%)
-- Internal Correctness (~40%)
-- Documentation (~10%)
+This CP will be out of 100 points.
 
 ### Academic Integrity
 Creative Projects are unique in that students may look for outside resources for inspiration or assistance in accomplishing their goals. On occasion students may wish to use portions of sample code that has been obtained on our course website or others. In order to avoid academic misconduct for a Creative Project in AD 320 you must include school appropriate content. If I find inappropriate content or plagiarism in CPs **you will be ineligible for any points on the CP**. Ask Tim if you're unsure if your work is cited appropriately. Any external sources like images should be cited where used in the source code or (ideally) visible in a page footer.
