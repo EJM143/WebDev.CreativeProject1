@@ -28,7 +28,7 @@ Here are some ideas for your cp:
 
 ## External Requirements
 * Your project must include the following 3 files (you may choose to include more):
-  * A completed `about.html` (do not change this file name) following instructions in the source code. You _may_ add to the HTML in this file if you wish - this structure is included to get you started. However, please do not delete any of the provided html.
+  * A completed about.html (do not change this file name) following instructions in the source code. You may add to the HTML in this file if you wish - this structure is included to get you started.  You may just scrap the entire HTML file and start from scratch.
   * One other `.html` file (you can choose the filename) that is linked from `about.html` with an `<a>` tag.
   * A `styles.css` file.
 * You must link `styles.css` to both `about.html` and your other HTML page to style your website with a consistent look and feel. You may add a second `.css` file to either page to factor out styles that are not shared by both pages (you can add a second CSS file with an additional `<link>` tag in the HTML `<head>`).
@@ -53,8 +53,6 @@ If you choose to use a second stylesheet, you should use `styles.css` only for s
   * Prefer CSS selectors instead of using too many classes or IDs in your HTML.
   * Do not include unused, duplicate, or overridden CSS rules or rulesets and use shared CSS selectors to factor out redundancy. Make sure to double-check that you didn't leave any unused styles in before submitting!
 * For full credit, all HTML and CSS files must be well-formed.
-* Note: You _may_ use a framework such as Bootstrap to help with your styling and helpful responsive layout features, however you must still meet all of the above requirements and demonstrate that you understand the key concepts of how the HTML and CSS work. Any framework code _will not count_ towards HTML/CSS requirements (e.g. if you use the Bootstrap "container" class in your HTML, you cannot count the CSS implementation in the bootstrap.css file towards the CSS requirements), however you can add new (not duplicate) CSS for this class to `styles.css`. You are not allowed to use any template HTML files for frameworks (this defeats the purpose of writing HTML and CSS from scratch in this first assignment).
-  * Don't know what any of that means but want to learn how to use a CSS framework? Ask about them in office hours!
 
 ## Documentation
 * Place a comment header in **each file** with your name, date, and a brief description of the document, and the file's contents. A good file header description is typically 2-3 sentences. Examples are shown below:
